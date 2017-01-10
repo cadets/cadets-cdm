@@ -1,0 +1,8 @@
+[package]
+
+name = "translator"
+version = "0.0.1"
+authors = [ "Amanda Strnad <amanda.strnad@baesystems.com>" ]
+
+[dependencies]
+clap = "2.20.0"
